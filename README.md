@@ -122,5 +122,7 @@ images/air_quality.png
 
 # 👨‍💻 Author
 
-Your Name  
-Aspiring Data Analyst / Business Intelligence Developer
+Tanvi
+B.Tech CSE Student
+Interest Area: Data Science & Data Analytics
+
